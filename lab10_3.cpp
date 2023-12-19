@@ -1,7 +1,6 @@
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
-#include <vector>
 #include <cmath>
 #include <fstream>
 using namespace std;
